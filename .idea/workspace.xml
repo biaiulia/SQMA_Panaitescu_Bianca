@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="97844abd-f594-4e8d-a840-c92d3066c78e" name="Changes" comment="-">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MultiplyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MultiplyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,15 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in SQMA_Panaitescu_Bianca (1)">
+    <configuration name="All in SQMA_Panaitescu_Bianca (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SQMA_Panaitescu_Bianca" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in SQMA_Panaitescu_Bianca" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SQMA_Panaitescu_Bianca" />
       <option name="PACKAGE_NAME" value="" />
@@ -65,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in SQMA_Panaitescu_Bianca (1)" />
         <item itemvalue="JUnit.All in SQMA_Panaitescu_Bianca" />
       </list>
     </recent_temporary>
@@ -78,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671313406981</updated>
       <workItem from="1671313408150" duration="2473000" />
-      <workItem from="1671316821844" duration="28000" />
+      <workItem from="1671316821844" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1671314682896</created>
@@ -108,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671316433796</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-">
+      <created>1671316908206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671316908206</updated>
+    </task>
+    <task id="LOCAL-00006" summary="-">
+      <created>1671316921165</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671316921165</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-class MultiplyTest {
+public class MultiplyTest {
     @Test
     public void testMultiply(){
         Multiply multiply =new Multiply() ;

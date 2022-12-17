@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-class SumTest {
+public class SumTest {
     @Test
     public void testSum() {
         Sum sum = new Sum();
