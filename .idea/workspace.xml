@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b4125e6-3431-4737-9261-c4949a88b8a5" name="Changes" comment="add jenkins file">
+    <list default="true" id="1b4125e6-3431-4737-9261-c4949a88b8a5" name="Changes" comment="fix build">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
@@ -50,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671314118606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix build">
+      <created>1671314367954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671314367954</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add jenkins file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add jenkins file" />
+    <MESSAGE value="fix build" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix build" />
   </component>
 </project>
