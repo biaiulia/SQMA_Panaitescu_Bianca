@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                sh 'mvn -Dtest=${abc} test'
+                sh 'mvn test'
             }
             post{
                 always{
