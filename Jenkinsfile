@@ -3,17 +3,18 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'mvn clean compile'
+                bat 'mvn clean compile'
             }
         }
         stage('Test') {
-                    steps {
-                        sh 'mvn test'
-                    }
+            steps {
+                bat 'mvn test'
+            }
+            post{
+                always{
+                    junit(testResults: 'target/surefire-reports/*.xml', allowEmptyResults : true)
                 }
-                post{
-                        always{
-                                    junit(testResults: 'target/surefire-reports/*.xml', allowEmptyResults : true)
-                                }
-                            }
+            }
+        }
+    }
 }
