@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                sh 'mvn test -DtestCase="SumTest"'
+                sh 'mvn -Dtest=MultiplyTest test'
             }
             post{
                 always{
